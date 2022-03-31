@@ -1,0 +1,4 @@
+FROM alpine
+
+CMD ["42"]
+ENTRYPOINT ["factor"]
